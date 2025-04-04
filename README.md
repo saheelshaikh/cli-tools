@@ -16,7 +16,7 @@ Make sure you have Node.js installed, then:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/cli-quiz-game.git  
+git clone https://github.com/saheelshaikh/cli-tools.git 
 cd cli-quiz-game  
 npm install  
 ▶️ Usage
